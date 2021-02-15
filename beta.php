@@ -317,7 +317,7 @@
                                 title="Parque Industrial Navetec Business Park GammaII">
                                 <div id="bg_gammaii" id="galeria" class="img__bg__nvt">
                                     <div class="gradient__bg__transblue">
-                                        <div class="panel-items">
+                                        <div class="panel-items"style="align-items: center;">
                                             <div class="">
                                                 <div class="percent">
                                                     <svg id="gammaii" class="rotar_grafica">

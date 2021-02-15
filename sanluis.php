@@ -189,7 +189,7 @@
                                         <div class="">
                                             <div class="d-inlinegrid">
                                                 <p class="futura-med blue-txt fs__20px mt-24  mb-10">Aparta desde
-                                                    $30,000MXN
+                                                    $30,000<span class="fs__12px">MXN</span>
                                                 </p>
                                                 <div class="btn-contenedor" style="display: inherit;">
                                                     <a href="https://grupoccima.com/#!/Navetec" target="_blank"

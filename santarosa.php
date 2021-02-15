@@ -208,7 +208,7 @@
                                         <div class="">
                                             <div class="d-inlinegrid">
                                                 <p class="futura-med blue-txt fs__20px mt-24  mb-10">Aparta desde
-                                                    $30,000MXN
+                                                    $30,000<span class="fs__12px">MXN</span>
                                                 </p>
                                                 <div class="btn-contenedor" style="display: inherit;">
                                                     <a href="https://grupoccima.com/#!/Navetec-Santa_Rosa_Business_Park"
@@ -290,7 +290,7 @@
                                         href="https://GrupoCCIMA.vr-360-tour.com/e/gcwBdyZtZN4/e?hide_logo=true&hide_nadir=true&hidehotspotlabels=true&hidelive=true&initvars.autorotate.enabled=true">
                                         <div id="bg_vr00" class="img__bg__nvt">
                                             <div class="gradient__bg__transblue">
-                                                <div class="panel-items">
+                                                <div class="panel-items" style="align-items: center;">
                                                     <img src="img/c-plus.svg" alt="">
                                                 </div>
                                                 <div class="">
@@ -657,184 +657,6 @@
                 </div>
             </div>
         </footer>
-
-        <!--modal-->
-        <div class="modal fade " id="carrusel_img">
-            <div class="modal-dialog modal-xl modal-dialog-scrollable">
-                <div class="modal-content">
-                    <!--header-->
-                    <div class="modal-header">
-                        <h4 class="modal-title futura-med btnld-text fs__16px center__text">NAVETEC BUSINESS PARK LA
-                            PRESA
-                        </h4>
-                        <button type="button" class="close" data-dismiss="modal">&times;</button>
-                    </div>
-                    <!--body-->
-                    <div class="modal-body">
-                        <div class="row">
-                            <div class="col-12 col-md-6">
-                                <div id="demo" class="carousel slide" data-ride="carousel">
-
-                                    <!-- Indicators -->
-                                    <ul class="carousel-indicators">
-                                        <li data-target="#demo" data-slide-to="0" class="active"></li>
-                                        <li data-target="#demo" data-slide-to="1"></li>
-                                        <li data-target="#demo" data-slide-to="2"></li>
-                                    </ul>
-
-                                    <!-- The slideshow -->
-                                    <div class="carousel-inner">
-                                        <div class="carousel-item active">
-                                            <picture>
-                                                <source media="(max-width:465px)"
-                                                    srcset="img/ParquesIndustriales/Aeropuerto/AeropuertoNavetec_01.jpg">
-                                                <img src="img/ParquesIndustriales/Aeropuerto/AeropuertoNavetec_01.jpg"
-                                                    width="100%">
-                                            </picture>
-                                        </div>
-                                        <div class="carousel-item">
-                                            <picture>
-                                                <source media="(max-width:465px)"
-                                                    srcset="img/ParquesIndustriales/Aeropuerto/AeropuertoNavetec_02.jpg">
-                                                <img src="img/ParquesIndustriales/Aeropuerto/AeropuertoNavetec_01.jpg"
-                                                    width="100%">
-                                            </picture>
-                                        </div>
-                                        <div class="carousel-item">
-                                            <picture>
-                                                <source media="(max-width:465px)"
-                                                    srcset="img/ParquesIndustriales/Aeropuerto/AeropuertoNavetec_03.jpg">
-                                                <img src="img/ParquesIndustriales/Aeropuerto/AeropuertoNavetec_01.jpg"
-                                                    width="100%">
-                                            </picture>
-                                        </div>
-                                    </div>
-
-                                    <!-- Left and right controls -->
-                                    <a class="carousel-control-prev" href="#demo" data-slide="prev">
-                                        <span class="carousel-control-prev-icon"></span>
-                                    </a>
-                                    <a class="carousel-control-next" href="#demo" data-slide="next">
-                                        <span class="carousel-control-next-icon"></span>
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="col-12 col-md-6">
-                                <div class="row">
-                                    <div class="col-12 col-md-6">
-                                        <div class="mod-imgsec">
-                                            <div class="">
-                                                <div class="">
-                                                    <span class="futura-med fs__18px btnld-text">Accesibilidad: </span>
-                                                    <ul class="check-nvt">
-                                                        <li class="futura-book lh__24px darkgray__text fs__16px">
-                                                            Carretera a
-                                                            CDMX</li>
-                                                        <li class="futura-book lh__24px darkgray__text fs__16px">
-                                                            Carretera a
-                                                            CDMX</li>
-                                                    </ul>
-                                                </div>
-                                                <div class="mt-30">
-                                                    <span class="futura-med fs__18px btnld-text">Caraterísticas del
-                                                        Parque
-                                                    </span>
-                                                    <ul class="check-nvt">
-                                                        <li class="futura-book lh__24px darkgray__text fs__16px">
-                                                            Seguridad
-                                                            24/7
-                                                        </li>
-                                                        <li class="futura-book lh__24px darkgray__text fs__16px">
-                                                            Administración
-                                                            del parque</li>
-                                                        <li class="futura-book lh__24px darkgray__text fs__16px">
-                                                            Business
-                                                            Center
-                                                        </li>
-                                                        <li class="futura-book lh__24px darkgray__text fs__16px">
-                                                            Circuito
-                                                            Cerrado De T.V.</li>
-                                                        <li class="futura-book lh__24px darkgray__text fs__16px">Auto
-                                                            Abasto
-                                                            de
-                                                            Agua</li>
-                                                    </ul>
-                                                </div>
-
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-12 col-md-6">
-                                        <div class="mod-imgsec">
-                                            <div class="">
-                                                <span class="futura-med fs__18px btnld-text">Caraterísticas de las
-                                                    Naves</span>
-                                                <ul class="check-nvt">
-                                                    <li class="futura-book lh__24px darkgray__text fs__16px">Altura
-                                                        promedio
-                                                        9m</li>
-                                                    <li class="futura-book lh__24px darkgray__text fs__16px">2 años de
-                                                        garantía</li>
-                                                    <li class="futura-book lh__24px darkgray__text fs__16px">Cortina en
-                                                        rampa y andén</li>
-                                                    <li class="futura-book lh__24px darkgray__text fs__16px">Plataforma
-                                                        Niveladora</li>
-                                                    <li class="futura-book lh__24px darkgray__text fs__16px">Sistema
-                                                        termo-acústico</li>
-                                                </ul>
-                                            </div>
-                                            <div class="mt-10">
-                                                <span class="futura-med fs__18px btnld-text">Numero de Lotes :</span>
-                                                <ul style="padding: 10px 0 0 10px;">
-                                                    <li class="futura-book lh__24px darkgray__text fs__16px"> 76</li>
-                                                </ul>
-
-                                            </div>
-
-                                            <div class="">
-                                                <div class="">
-                                                    <h4 class="futura-med blue-txt fs__20px mt-24  mb-10">Aparta con
-                                                        $10,000MXN
-                                                    </h4>
-                                                    <button
-                                                        class="futura-demi blue_cc-bg px-30 pt-10 pb-8 box__shadow-5">
-                                                        <span class="futura-demi white__text fs__20px">
-                                                            Cotizar
-                                                        </span>
-                                                    </button>
-                                                </div>
-                                            </div>
-
-
-                                        </div>
-
-                                    </div>
-                                    <div class="col-12" style="padding-top:15px">
-                                        <div class="mod-imgsec">
-                                            <p class="futura-book lh__24px darkgray__text fs__18px">
-                                                <span>Ubicación:</span> <a href="https://goo.gl/maps/gGh2W4nnjuCMXQbq9"
-                                                    target="_blank" rel="nofollow"> Entre las carreteras
-                                                    Celaya-Querétaro
-                                                    (libre), Guanajuato-Querétaro (cuota), en el km. 18, sobre el
-                                                    libramiento
-                                                    norponiente
-                                                </a>
-                                            </p>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--footer-->
-                    <div class="modal-footer">
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--modal-->
-
         <div class="contacto-whatsapp">
             <div class="cont-whatsapp">
                 <a target="_blank" rel="nofollow" href="https://api.whatsapp.com/send?phone=+5214424571679">

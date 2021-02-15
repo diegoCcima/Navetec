@@ -1187,7 +1187,7 @@ header .overlay {
     height: 50px;
     border-radius: 50%;
     background: #002854e6;
-    z-index: 1000;
+    z-index: 10;
 }
 
 .percent .number {
@@ -1422,4 +1422,7 @@ svg circle:nth-child(2) {
 
 .cinta-nuevo img {
     width: 150px
+}
+.vr-center{
+    align-items: center;
 }
