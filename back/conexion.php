@@ -1,8 +1,8 @@
 <?php 
 $host = "localhost";
-$user = "diegodgu_Kratos1521";
-$clave = "mlv_0o*@zdd";
-$bd = "diegodgu_navetec";
+$user = "grupocci_admin1521";
+$clave = "kjhyt*tcg";
+$bd = "grupocci_navetec";
 
 $conectar = mysqli_connect($host, $user, $clave, $bd);
 

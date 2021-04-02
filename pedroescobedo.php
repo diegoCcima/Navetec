@@ -118,7 +118,7 @@
                                                     <circle cx="21" cy="21" r="21"></circle>
                                                 </svg>
                                                 <div class="number">
-                                                    <h2 class="futura-med">71 <span>%</span></h2>
+                                                    <h2 class="futura-med">61 <span>%</span></h2>
                                                 </div>
                                             </div>
                                         </div>
@@ -283,8 +283,6 @@
                                     </div>
                                 </div>
                             </div>
-
-
                         </div>
                         <div class="col-12 col-md-6">
 
@@ -294,7 +292,7 @@
                                         href="https://GrupoCCIMA.vr-360-tour.com/e/gcwBdyZtZN4/e?hide_logo=true&hide_nadir=true&hidehotspotlabels=true&hidelive=true&initvars.autorotate.enabled=true">
                                         <div id="bg_vr00" class="img__bg__nvt">
                                             <div class="gradient__bg__transblue">
-                                                <div class="panel-items">
+                                                <div class="panel-items" style="align-items: center;">
                                                     <img src="img/c-plus.svg" alt="">
                                                 </div>
                                                 <div class="">
@@ -351,7 +349,7 @@
                                                             <circle cx="21" cy="21" r="21"></circle>
                                                         </svg>
                                                         <div class="number">
-                                                            <h2 class="futura-med pt-2">19 <span>%</span></h2>
+                                                            <h2 class="futura-med pt-2">36 <span>%</span></h2>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -382,7 +380,6 @@
                             </div>
                             <h6 class="futura-med blue-txt fs__18px pt-2">N.B.P. GAMMA </h6>
                         </div>
-
 
                         <div class="carousel__elemento">
                             <div class="p-0 naves-cli">
@@ -417,7 +414,7 @@
                                                             <circle cx="21" cy="21" r="21"></circle>
                                                         </svg>
                                                         <div class="number">
-                                                            <h2 class="futura-med">57 <span>%</span></h2>
+                                                            <h2 class="futura-med">67<span>%</span></h2>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -459,7 +456,7 @@
                                                             <circle cx="21" cy="21" r="21"></circle>
                                                         </svg>
                                                         <div class="number">
-                                                            <h2 class="futura-med">34 <span>%</span></h2>
+                                                            <h2 class="futura-med">30 <span>%</span></h2>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -485,7 +482,7 @@
                                                             <circle cx="21" cy="21" r="21"></circle>
                                                         </svg>
                                                         <div class="number">
-                                                            <h2 class="futura-med">43<span>%</span></h2>
+                                                            <h2 class="futura-med">44<span>%</span></h2>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -558,7 +555,7 @@
                                             </div>
                                             <div class="futura-book fs__14px white__text lh__24px">
                                                 <b>Lun-Vie:</b> 10:00 A.M. - 06:30 P.M.<br>
-                                                <b>Sábado</b> 10:00 A.M. - 02:00 P.M.
+                                                <b>Sábado:</b> 10:00 A.M. - 02:00 P.M.
                                             </div>
                                         </div>
                                     </li>
@@ -670,7 +667,7 @@
 
         <div class="contacto-whatsapp">
             <div class="cont-whatsapp">
-                <a target="_blank" rel="nofollow" href="https://api.whatsapp.com/send?phone=+5214424571679">
+                <a target="_blank" rel="nofollow" href="https://api.whatsapp.com/send?phone=+5214422912223">
                     <img src="img/redessociales/whatsapp.svg" width="20" height="20">
                     <p class="futura-book fs__16px">Whatsapp</p>
                 </a>

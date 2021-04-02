@@ -157,6 +157,21 @@ ul {
     padding: 7px 25px 5px 25px
 }
 
+.off-title {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: space-between;
+    padding-bottom: 3px
+}
+
+@media screen and (max-width:1000px) {
+    .off-title {
+        height: 450px;
+        padding-bottom: 30px
+    }
+}
+
 @media screen and (max-width:768px) {
     .seccion {
         padding: 64px 8px
@@ -335,7 +350,7 @@ ul {
     display: flex;
     justify-content: center;
     align-items: flex-end;
-    padding-bottom: 1.5rem;
+    padding-bottom: 1.5rem
 }
 
 .gradient__bg__transblue div img,
@@ -1076,7 +1091,7 @@ header .overlay {
 }
 
 .espacio {
-    height: 50px
+    height: 40px
 }
 
 .interlineado {
@@ -1187,7 +1202,7 @@ header .overlay {
     height: 50px;
     border-radius: 50%;
     background: #002854e6;
-    z-index: 10;
+    z-index: 10
 }
 
 .percent .number {
@@ -1237,7 +1252,7 @@ svg {
     position: relative;
     width: 50px;
     height: 52px;
-    z-index: 1000;
+    z-index: 1000
 }
 
 svg circle {
@@ -1261,27 +1276,27 @@ svg circle:nth-child(2) {
 }
 
 #gra_aeropuerto circle:nth-child(2) {
-    stroke-dashoffset: calc(175 - (175 * 43)/ 135);
+    stroke-dashoffset: calc(175 - (175 * 45)/ 135);
     stroke: #00a1ff
 }
 
 #gammaii circle:nth-child(2) {
-    stroke-dashoffset: calc(175 - (175 * 10)/ 100);
+    stroke-dashoffset: calc(175 - (175 * 23)/ 100);
     stroke: #00a1ff
 }
 
 #gra_santarosa circle:nth-child(2) {
-    stroke-dashoffset: calc(175 - (175 * 43)/ 100);
-    stroke: #00a1ff
-}
-
-#gra_pedroescobedo circle:nth-child(2) {
     stroke-dashoffset: calc(175 - (175 * 53)/ 100);
     stroke: #00a1ff
 }
 
+#gra_pedroescobedo circle:nth-child(2) {
+    stroke-dashoffset: calc(175 - (175 * 48)/ 100);
+    stroke: #00a1ff
+}
+
 #gra_lapresa circle:nth-child(2) {
-    stroke-dashoffset: calc(175 - (175 * 20)/ 100);
+    stroke-dashoffset: calc(175 - (175 * 15)/ 100);
     stroke: #00a1ff
 }
 
@@ -1362,13 +1377,17 @@ svg circle:nth-child(2) {
     .contenido-principal>* {
         width: 100%
     }
+
+    .contenedor {
+        width: 82%
+    }
 }
 
 .c-valor_porcentaje {
     height: 100%;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center
 }
 
 .bg_cluster_trans {
@@ -1423,6 +1442,7 @@ svg circle:nth-child(2) {
 .cinta-nuevo img {
     width: 150px
 }
-.vr-center{
-    align-items: center;
+
+.vr-center {
+    align-items: center
 }

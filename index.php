@@ -92,7 +92,7 @@
                 <div class="w-100 row">
                     <div id="oferta__desc" class="col-lg-6 col-12">
                         <div class="off-title">
-                            <div class="futura-Bold pb-32 pt-24 fs__24px blue-txt">
+                            <div class="futura-Bold  fs__24px blue-txt">
                                 <h3 class="">¿Tal vez te estrese invertir por las siguientes razones?</h3>
                             </div>
                             <ul class="list-nvt">
@@ -103,21 +103,22 @@
                                 <li class="futura-book darkgray__text fs__20px lh__24px">Falta de certeza por la
                                     situación actual</li>
                             </ul>
-                            <p class="futura-book darkgray__text fs__20px py-24 lh__24px">¿Quieres que tu dinero este
+                            <p class="futura-book darkgray__text fs__20px  lh__24px">¿Quieres que tu dinero este
                                 seguro y tenga <span class="futura-demi"> RENDIMIENTOS EXTRAORDINARIOS</span>?</p>
-
-                            <p class="futura-demi darkgray__text fs__20px py-24 lh__24px">NOSOTROS DE GUIAMOS
+                            <p class="futura-demi darkgray__text fs__20px  lh__24px">NO TE PREOCUPES MÁS <BR>NOSOTROS TE GUIAMOS
                             </p>
-
+                            <div style="height: 40px;">
+                                <a title="ir al Formulario de Contacto" href="/contacto.php" id=" btn_clicForm"
+                                    class="futura-demi blue_cc-bg px-30 pt-16 pb-14 box__shadow-5">
+                                    <span class="futura-demi white__text fs__20px">
+                                        Comienza a Invertir
+                                    </span>
+                                </a>
+                            </div>
+                            
                         </div>
-                        <div class="pt-40 aling-btn" style=" padding-bottom: 32px; margin: 0 auto;">
-                            <a title="ir al Formulario de Contacto" href="/contacto.php" id=" btn_clicForm"
-                                class="futura-demi blue_cc-bg px-30 pt-16 pb-14 box__shadow-5">
-                                <span class="futura-demi white__text fs__20px">
-                                    Comienza a Invertir
-                                </span>
-                            </a>
-                        </div>
+                       
+                        
                     </div>
                     <div class="col-lg-6 col-12 ">
                         <div class="center__text">
@@ -159,7 +160,7 @@
                                                         <circle cx="21" cy="21" r="21"></circle>
                                                     </svg>
                                                     <div class="number">
-                                                        <h2 class="futura-med">19 <span>%</span></h2>
+                                                        <h2 class="futura-med">36<span>%</span></h2>
                                                     </div>
                                                 </div>
                                             </div>
@@ -198,7 +199,6 @@
                             <h6 class="futura-med blue-txt fs__18px pt-2">N. SERVER SAN LUIS </h6>
                         </div>
                         <div class="col-lg-3 col-6 p-0 naves-cli">
-
                             <a id="nbp_pedroescobedo" href="pedroescobedo.php"
                                 title="Parque Industrial Navetec Business Park Pedro Escobedo">
                                 <div id="bg_pedro" class="img__bg__nvt">
@@ -211,7 +211,7 @@
                                                         <circle cx="21" cy="21" r="21"></circle>
                                                     </svg>
                                                     <div class="number">
-                                                        <h2 class="futura-med">71 <span>%</span></h2>
+                                                        <h2 class="futura-med">61<span>%</span></h2>
                                                     </div>
                                                 </div>
                                             </div>
@@ -219,12 +219,10 @@
                                     </div>
                                 </div>
                             </a>
-
                             <h6 class="futura-med blue-txt fs__18px pt-2 pb-2 ">N.B.P. PEDRO ESCOBEDO </h6>
                         </div>
 
                         <div class="col-lg-3 col-6 p-0 naves-cli">
-
                             <a id="nbp_beta" href="beta.php" title="Parque Industrial Navetec Business Park Beta">
                                 <div id="bg_beta" class="img__bg__nvt">
                                     <div class="gradient__bg__transblue">
@@ -234,7 +232,6 @@
                                     </div>
                                 </div>
                             </a>
-
                             <h6 class="futura-med blue-txt fs__18px pt-2 pb-2">N.B.P. BETA </h6>
                         </div>
 
@@ -254,7 +251,7 @@
                                                         <circle cx="21" cy="21" r="21"></circle>
                                                     </svg>
                                                     <div class="number">
-                                                        <h2 class="futura-med">57 <span>%</span></h2>
+                                                        <h2 class="futura-med">67<span>%</span></h2>
                                                     </div>
                                                 </div>
                                             </div>
@@ -280,7 +277,7 @@
                                                         <circle cx="21" cy="21" r="21"></circle>
                                                     </svg>
                                                     <div class="number">
-                                                        <h2 class="futura-med">34 <span>%</span></h2>
+                                                        <h2 class="futura-med">30<span>%</span></h2>
                                                     </div>
                                                 </div>
                                             </div>
@@ -305,27 +302,24 @@
                                                         <circle cx="21" cy="21" r="21"></circle>
                                                     </svg>
                                                     <div class="number">
-                                                        <h2 class="futura-med">43<span>%</span></h2>
+                                                        <h2 class="futura-med">44<span>%</span></h2>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="">
-
                                         </div>
                                     </div>
                                 </div>
                             </a>
-
                             <h6 class="futura-med blue-text fs__18px pt-2 pb-2">N.B.P. AEROPUERTO </h6>
-
                         </div>
                     </div>
                 </div>
                 <div class="w1100px" style=" margin: 0 auto;">
                     <div class="row">
                         <div class="col-12">
-                            <div class="pt-32 px-20" flex="100" flex-gt-xs="100" flex-gt-sm="100">
+                            <div class="pt-32 px-20">
                                 <div class="futura-Bold pb-32 pt-24 fs__24px blue-txt">
                                     <h3 class="">Diseñamos Esquemas de Financiamiento Nunca Antes Vistos</h3>
                                 </div>
@@ -492,7 +486,7 @@
                     </div>
                     <div id="" class="col-lg-6">
                         <div class="nvt-p-40">
-                            <div class="off-title">
+                            <div class="">
                                 <div class="">
                                     <h3 class="futura-Bold pb-32 fs__24px blue-txt center__text">¡Ya puedes invertir en
                                         grande!
@@ -568,7 +562,7 @@
                                     </h3>
                                 </div>
                             </div>
-                            <div class="off-title">
+                            <div class="">
                                 <div class="">
                                     <span class="futura-demi  pt-24 fs__46px blue-txt">HASTA 30%</span><br>
                                     <h3 class="futura-demi  fs__46px blue-txt"> DE RENDIMIENTO</h3>
@@ -631,7 +625,6 @@
                     <h2 class="title-sec futura-Bold blue-txt">Preguntas Frecuentes</h2>
                 </div>
                 <div class=" w-100 ">
-
                     <div id="accordion">
                         <div class="card">
                             <div class="card-header faqs">
@@ -660,6 +653,30 @@
                                 </div>
                             </div>
                         </div>
+
+                        <!--Porque INVERTIR EN SAN LUIS POTOSI -->
+                        <div class="card">
+                            <div class="card-header faqs">
+                                <a class="card-link futura-book white__text fs__20px" data-toggle="collapse"
+                                    href="#collapsesiete">
+                                    ¿Por qué Invertir en San Luis Potosí?
+                                </a>
+                            </div>
+                            <div id="collapsesiete" class="collapse" data-parent="#accordion">
+                                <div class="card-body futura-book fs__18px btnld-text accordion-content">
+                                El sector industrial representa el 43.6% del PIB de todo el estado. 3% De crecimiento promedio anual del Producto Interno Bruto (PIB) entre 2016 y 2019. En el sector inmobiliario 4° lugar A nivel nacional en plusvalía. Población económicamente activa 44.5%. Acceso a 76.5  millones De consumidores potenciales. Inversión Pública $45,987 MDP Período del 2018-2019. Exportaciones de Mercancías $15,435 MDD Período 2019 <br>
+                                <br><br>Fuente: SAN LUIS / EL UNIVERSAL
+
+                                    <br>
+                                    <br>
+                                    <a target="_blank" rel="nofollow"
+                                        href="https://api.whatsapp.com/send?phone=+5214422912223"
+                                        title="Envair Mensaje Whatsapp Naves Industrial Navetec">Más Información</a>
+                                </div>
+                            </div>
+                        </div>
+
+
                         <div class="card">
                             <div class="card-header faqs">
                                 <a class="collapsed card-link futura-book white__text fs__20px" data-toggle="collapse"
@@ -696,7 +713,7 @@
                                     carreteras
                                     Celaya-Querétaro (Libre),
                                     Guanajuato-Querétaro (Cuota), en el Km. 18, Sobre el Libramiento
-                                    Norponiente. <a href="https://goo.gl/maps/RFY4BRQStapKKgwd7"><img src="" alt=""> Ver
+                                    Norponiente. <a href="https://goo.gl/maps/RFY4BRQStapKKgwd7" target="_blank"><img src="" alt=""> Ver
                                         Ubicación</a>
                                     <br> <br>
                                     <span class="futura-demi">Santa Rosa:</span> Ubicado entre la carretera
@@ -704,7 +721,7 @@
                                     (Carretera 57) y
                                     Libramiento
                                     Norponiente, contra esquina del Polígono Empresarial Santa Rosa. <a
-                                        href="https://goo.gl/maps/ZDfSK3hRzfyLUjLV6"><img src="" alt=""> Ver
+                                        href="https://goo.gl/maps/ZDfSK3hRzfyLUjLV6" target="_blank"><img src="" alt=""> Ver
                                         Ubicación</a>
                                     <br><br>
                                     <span class="futura-demi">Beta:</span> Conjunto industrial ubicado dentro del
@@ -712,13 +729,13 @@
                                     espacial, con accesos
                                     totalmente
                                     viables como Circuito Universidades y Carretera México-Querétaro. <a
-                                        href="https://goo.gl/maps/Kuep2bGbSyYRs8sD6"><img src="" alt=""> Ver
+                                        href="https://goo.gl/maps/Kuep2bGbSyYRs8sD6" target="_blank"><img src="" alt=""> Ver
                                         Ubicación</a>
                                     <br><br>
                                     <span class="futura-demi">Aeropuerto:</span> Se encuentra entre las carreteras
                                     Celaya-Querétaro (Libre),
                                     Guanajuato-Querétaro (Cuota), en el Km. 18, sobre el Libramiento
-                                    Norponiente. <a href="https://goo.gl/maps/bChq5W4ACBig6JVZ9"><img src="" alt=""> Ver
+                                    Norponiente. <a href="https://goo.gl/maps/bChq5W4ACBig6JVZ9" target="_blank"><img src="" alt=""> Ver
                                         Ubicación</a>
                                     <br><br>
                                     <span class="futura-demi">Pedro Escobedo:</span> Ubicado a un costado de la
@@ -726,7 +743,7 @@
                                     Carretera federal 57
                                     fracc. 1 de la
                                     parcela 189 P-5/6 Z-1 col. La Palma. <a
-                                        href="https://goo.gl/maps/rffnsyQvz7wkA4w58"><img src="" alt=""> Ver
+                                        href="https://goo.gl/maps/rffnsyQvz7wkA4w58" target="_blank"><img src="" alt=""> Ver
                                         Ubicación</a>
                                     <br><br>
                                     <span class="futura-demi">La Presa:</span> Próximamente.
@@ -734,7 +751,7 @@
                                     <span class="futura-demi">San Luis Potosí:</span> Ubicado en La Pila, Carretera
                                     México 57 1401, La Pila, S.L.P. En
                                     el Área industrial de San Luis Potosí. (5 min Server SLP) <a
-                                        href="https://goo.gl/maps/2AEYDvXapEaR41W69"><img src="" alt=""> Ver
+                                        href="https://goo.gl/maps/2AEYDvXapEaR41W69" target="_blank"><img src="" alt=""> Ver
                                         Ubicación</a>
                                     <br>
                                     <br>
@@ -749,7 +766,7 @@
                             <div class="card-header faqs">
                                 <a class="collapsed card-link futura-book white__text fs__20px" data-toggle="collapse"
                                     href="#collapsecuatro">
-                                    ¿Cuando Puedo Comprar Mi Nave Industrial ?</a> </div>
+                                    ¿Cuándo Puedo Comprar Mi Nave Industrial ?</a> </div>
                             <div id="collapsecuatro" class="collapse" data-parent="#accordion">
                                 <div class="card-body futura-book fs__18px btnld-text accordion-content">
                                     <span class="futura-demi">
@@ -757,8 +774,8 @@
                                     </span>
                                     <br>
                                     <br>
-                                    Conocemos tus necesidades, por esa razón contamos con Naves de entrega
-                                    inmediata y con todos los beneficios que Navetec te puede ofrecer.
+                                    Conocemos tus necesidades, por esa razón podrás elegir entre  Naves de entrega
+                                    inmediata o en Preventa con financiamientos Extraordinarios y con todos los beneficios que Navetec te puede ofrecer.
                                     <br>
                                     <br>
                                     <a target="_blank" rel="nofollow"
@@ -776,9 +793,9 @@
                                 <div class="card-body futura-book fs__18px btnld-text accordion-content">
                                     <br>
                                     Las Inversiones en el Sector Industrial son de las más seguras que existen
-                                    actualmente y en el caso de Navetec tiene
-                                    el respaldo de +500 Naves industriales Construidas a lo largo de los 18 años de
-                                    experiencia, hemos trabajado con empresas como Femsa, Samsung Toyota UNAQ
+                                    actualmente y en el caso de Navetec te ofrecemos
+                                    el respaldo de +500 Naves industriales Construidas a lo largo de nuestros 18 años de
+                                    experiencia, hemos trabajado con empresas como Femsa, Samsung, Toyota  y La UNAQ, por mencionar algunas.
                                     <br>
                                     <br>
                                     <a target="_blank" rel="nofollow"
@@ -796,8 +813,8 @@
                             </div>
                             <div id="collapsecinco" class="collapse" data-parent="#accordion">
                                 <div class="card-body futura-book fs__18px btnld-text accordion-content">
-                                    Es muy Sencillo, contacta a tu Aliado Sherpa y en unos minutos podras Apartar tu
-                                    Nave o lote Industrial<br>
+                                    Es muy Sencillo, contacta a tu Aliado Sherpa y en unos minutos podrás Apartar tu
+                                    Nave o Lote Industrial.<br>
                                     <br>
                                     <a target="_blank" rel="nofollow"
                                         href="https://api.whatsapp.com/send?phone=+5214424571679"
@@ -852,7 +869,7 @@
                                         </div>
                                         <div class="futura-book fs__14px white__text lh__24px">
                                             <b>Lun-Vie:</b> 10:00 A.M. - 06:30 P.M.<br>
-                                            <b>Sábado</b> 10:00 A.M. - 02:00 P.M.
+                                            <b>Sábado:</b> 10:00 A.M. - 02:00 P.M.
                                         </div>
                                     </div>
                                 </li>
@@ -958,7 +975,7 @@
     </footer>
     <div class="contacto-whatsapp">
         <div class="cont-whatsapp">
-            <a target="_blank" rel="nofollow" href="https://api.whatsapp.com/send?phone=+5214424571679">
+            <a target="_blank" rel="nofollow" href="https://api.whatsapp.com/send?phone=+5214422912223">
                 <img src="img/redessociales/whatsapp.svg" width="20" height="20"
                     alt="Whatsapp Naves Industriales Navetec">
                 <p class="futura-book fs__16px">Whatsapp</p>
